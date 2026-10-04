@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Tere! 👋 Mina olen Helena Toompalu
  
-## 🎯 Andmeanalüütiku Karjääri Algus
+## 🎯 Andmeanalüütiku karjääri algus
  
 Õpin hetkel **DACA (Data Analyst Career Accelerator)** programmis ja ehitan oma esimest professionaalset portfooliot.
  
