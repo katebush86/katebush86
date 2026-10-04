@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ## 📫 Kontakt
  
 - **Email:** toompalu.helena@gmail.com
-- **LinkedIn:** [linkedin.com/in/anna-mets](https://linkedin.com/in/helenatoompalu)
+- **LinkedIn:** [linkedin.com/in/helenatoompalu](https://linkedin.com/in/helenatoompalu)
  
 ---
  
